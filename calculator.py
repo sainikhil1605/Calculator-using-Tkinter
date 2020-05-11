@@ -1,5 +1,4 @@
-#VATTI SAI NIKHIL REDDY
-#17881A0434
+
 from tkinter import *
 window =Tk()
 window.title("Calculator")
